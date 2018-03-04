@@ -63,11 +63,11 @@ pyflapjackevents is available under the Apache License, Version 2.0. See LICENSE
   :alt: Travis results
 
 
-.. |pip version| image:: https://pypip.in/v/pyflapjackevents/badge.png
+.. |pip version| image:: https://img.shields.io/pypi/v/pyflapjackevents.svg
     :target: https://pypi.python.org/pypi/pyflapjackevents
     :alt: Latest PyPI version
 
-.. |pip downloads| image:: https://pypip.in/d/pyflapjackevents/badge.png
+.. |pip downloads| image:: https://img.shields.io/pypi/dm/pyflapjackevents.svg
     :target: https://pypi.python.org/pypi/pyflapjackevents
     :alt: Number of PyPI downloads
 
